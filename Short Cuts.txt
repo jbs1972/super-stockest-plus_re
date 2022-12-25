@@ -1,0 +1,164 @@
+ssp.Login
+-splash:src/images/Banner01.jpg
+SplashScreen-Image: images/Banner01.jpg
+
+Exclude the following keys:
+Ctrl+C
+Ctrl+V
+Ctrl+X
+Ctrl+A
+
+##Remaining##
+
+For Ctrl::~~
+D
+F
+H
+J
+L
+M
+N
+W
+
+For Alt::~~
+A
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+O
+Q
+R
+V
+W
+Z
+
+For Ctrl+Alt::~~
+A
+D
+E
+F
+G
+H
+I
+J
+K
+M
+O
+P
+Q
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+For Shift+Alt::~~
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+For Shift+Alt::~~
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+File::--
+Login Details - Ctrl+Alt+L
+Calculator - Ctrl+Alt+C
+Notepad - Ctrl+Alt+N
+Exit - Alt+X
+
+System Setup::--
+Edit Enterprise Data - Ctrl+E
+User Profile - Ctrl+U
+Financial Year - Ctrl+Y
+Database Backup - Ctrl+Alt+B
+Database Restore - Ctrl+Alt+R
+
+Business Setup::--
+Payment Mode Master - Ctrl+P
+Item --
+	Company Master - Ctrl+O
+	Super Stockist - Ctrl+K
+	Item Categiry Master - Ctrl+G
+	Measuring Unit - Ctrl+T
+	Item Master - Ctrl+I
+Distributer Master --
+	Beat Master - Ctrl+B
+	Distributer Master - Ctrl+R
+Purchase-Sale Rate --
+	Purchase-Sale Formula - Ctrl+F
+	Purchase-Sale Formula Mapping - Ctrl+M
+
+Purchase::--
+	Purchase - Alt+P
+
+Sale::--
+	Sale - Ctrl+S
+	Edit Sale - Ctrl+D
+	Sale-GST Report - Ctrl+J
+	Sale Due Payment - Alt+D
+	Partywise Product Sale Report - Ctrl+L
+	Sale Payment Report - Alt+T
+
+Print::--
+	
+
+Miscellaneous Reports::--
+	Stock Notification - Ctrl+Z
